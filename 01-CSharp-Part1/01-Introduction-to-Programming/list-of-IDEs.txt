@@ -1,0 +1,152 @@
+
+	Problem 12: Development environments
+
+	/*
+	 *	- Perform a research (e.g. in Google or Wikipedia) and provide a short list with popular development environments (IDEs) like Visual Studio.
+	 *
+	 *  - Write in a text file called “list-of-IDEs.txt” at least five IDEs along with 2-3 sentences about each of them. Use English.
+	 *
+	 * */
+
+	LIST OF IDEs
+	------------ 
+
+
+	1.Microsoft Visual Studio (IDE)
+
+	Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. 
+	It is used to develop console and graphical user interface applications along with Windows Forms 
+	or WPF applications, web sites, web applications, web services, and also Windows Store apps 
+	in both native code together with managed code for all platforms supported by Microsoft Windows, 
+	Windows Mobile, Windows CE, .NET Framework, .NET Compact Framework and Microsoft Silverlight.
+
+	Visual Studio supports different programming languages by means of language services, 
+	which allow the code editor and debugger to support (to varying degrees) nearly any programming language,
+	provided a language-specific service exists. Built-in languages include C/C++[5] (via Visual C++), VB.NET 
+	(via Visual Basic .NET), C# (via Visual C#), and F# (as of Visual Studio 2010[6]). 
+	Support for other languages such as M, Python, and Ruby among others is available via 
+	language services installed separately. It also supports XML/XSLT, HTML/XHTML, JavaScript and CSS.
+
+	Developed by: Microsoft	
+	Written in : C++ and C#
+	official website:  www.visualstudio.com
+	site on wikipedia: http://en.wikipedia.org/wiki/Microsoft_Visual_Studio
+
+	---------------------------------------------------------------------------------------------------------
+
+
+	2.NetBeans (IDE)
+
+	NetBeans is an integrated development environment (IDE) for developing primarily with Java, 
+	but also with other languages, in particular PHP, C/C++, and HTML5.[2] It is also an application platform 
+	framework for Java desktop applications and others.
+	The NetBeans IDE is written in Java and can run on Windows, OS X, Linux, Solaris and other platforms 
+	supporting a compatible JVM.
+
+	Developed by: Oracle Corporation	
+	Written in : Java
+	official website:  netbeans.org
+	site on wikipedia: http://en.wikipedia.org/wiki/NetBeans
+
+
+	--------------------------------------------------------------------------------------------------------
+
+	3.Eclipse (IDE)
+
+	Eclipse is an integrated development environment (IDE). It contains a base workspace and an extensible 
+	plug-in system for customizing the environment. Written mostly in Java, Eclipse can be used to develop 
+	applications. By means of various plug-ins, Eclipse may also be used to develop applications in other 
+	programming languages: Ada, C, C++, COBOL, Fortran, Haskell, JavaScript, Lasso, Perl, PHP, Python, R, 
+	Ruby (including Ruby on Rails framework), Scala, Clojure, Groovy, Scheme, and Erlang. 
+	It can also be used to develop packages for the software Mathematica. Development environments include 
+	the Eclipse Java development tools (JDT) for Java and Scala, Eclipse CDT for C/C++ and Eclipse PDT for 
+	PHP, among others.
+
+	Developed by: Eclipse Foundation	
+	Written in : Java
+	official website:  www.eclipse.org
+	site on wikipedia: http://en.wikipedia.org/wiki/Eclipse_(software)#Technology_and_research
+
+
+	-------------------------------------------------------------------------------------------------------
+
+	4.MonoDevelop (IDE)
+
+	MonoDevelop is an open source integrated development environment for Linux, OS X, and Windows. 
+	Its primary focus is development of projects that use Mono and .NET frameworks. MonoDevelop integrates 
+	features similar to those of NetBeans and Microsoft Visual Studio, such as automatic code completion, 
+	source control, a graphical user interface (GUI) and Web designer. MonoDevelop integrates a Gtk# GUI 
+	designer called Stetic.[6] It supports C#, F#, Java, Boo, Visual Basic.NET, Oxygene, CIL, Python, Vala, 
+	C and C++.
+
+	Developed by: Xamarin and the Mono community	
+	Written in : C#, XML, and 14 others
+	official website:  monodevelop.com
+	site on wikipedia: http://en.wikipedia.org/wiki/MonoDevelop
+
+
+	-------------------------------------------------------------------------------------------------------
+
+	5.Xcode (Apple) (IDE)
+
+	Xcode is an integrated development environment (IDE) containing a suite of software development tools 
+	developed by Apple for developing software for OS X and iOS. First released in 2003, the latest stable 
+	release is version 5.0 and is available via the Mac App Store free of charge for Mac OS X Lion and 
+	OS X Mountain Lion users.
+
+	Xcode supports C, C++, Objective-C, Objective-C++, Java, AppleScript, Python, Ruby and Rez source code 
+	with a variety of programming models, including but not limited to Cocoa, Carbon, and Java.
+
+	Developed by: Apple Inc.	
+	official website:  https://developer.apple.com/xcode/
+	site on wikipedia: http://en.wikipedia.org/wiki/Xcode
+
+	------------------------------------------------------------------------------------------------------
+
+	6.KDevelop (IDE)
+
+	KDevelop is a free software integrated development environment (IDE) for the KDE Platform on Unix-like 
+	computer operating systems. KDevelop includes no compiler; instead, it uses an external compiler such 
+	as GCC to produce executable code. The last stable release of the previous major version, 3.5.5, which
+	is based on K Desktop Environment 3 technology, supports many programming languages such as Ada, Bash, 
+	C, C++, Fortran, Java, Pascal, Perl, PHP, Python and Ruby. Released under the GNU General Public License, 
+	KDevelop is free software.
+
+	Developed by: KDE	
+	Written in : C, C++
+	official website:  www.kdevelop.com
+	site on wikipedia: http://en.wikipedia.org/wiki/KDevelop
+
+	---------------------------------------------------------------------
+
+	Comparrison of IDEs and used Languages
+
+		IDE / Language	|	C/C++	C#		Java	JavaScript		PHP
+	---------------------------------------------------------------------
+	1.	MS Visual Studio|	YES	    YES		NO			YES			NO
+	2.	NetBeans		|	YES		NO		YES			YES			YES
+	3.	Eclipse			|	YES		NO		YES			YES			YES
+	4.	MonoDevelop		|	YES		YES		NO 			NO 			NO
+	5.	Xcode			|	YES		NO 		YES			NO 			NO
+	6.	KDevelop		|	YES		NO		YES			NO			YES
+	---------------------------------------------------------------------
+
+
+	IDEs and Platforms
+
+		IDE / Platform	|     Windows  Linux	MacOSX
+	----------------------------------------------------
+	1.	MS Visual Studio|		YES     NO		NO	   
+	2.	NetBeans		|		YES		YES		YES	
+	3.	Eclipse			|		YES		YES		YES
+	4.	MonoDevelop		|		NO		YES		YES 	
+	5.	Xcode			|		NO		NO 		YES	
+	6.	KDevelop		|		NO		YES		YES	
+	----------------------------------------------------		   
+
+
+
+
+
+   
+	  

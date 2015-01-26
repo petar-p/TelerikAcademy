@@ -1,0 +1,161 @@
+
+	Problem 11: Programming languages	
+
+	/*  
+	 * 	- Perform a research (e.g. in Google or Wikipedia) and provide a short list with information about the most popular programming languages.
+	 *
+	 *	- How similar are they to C#? How do they differ from C#?
+	 *	
+	 *	- Write in a text file called “programming-languages.txt” at least five languages along with 2-3 sentences about each of them. Use English.
+	 *
+	 * */ 
+	
+	- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+	
+	I. List of popular programming languages
+
+		1. C
+		2. C++
+		3. C#
+		4. Objective-C
+		5. Java
+		6. JavaScript
+		7. PHP
+		8. Python
+		9. Ruby
+		10.Perl
+
+		1. The Programming Language C
+
+			C is a general-purpose programming language developed by Dennis Ritchie between 1969 and 1973. 
+			C is one of the most widely used programming languages of all time, and C compilers are 
+			available for the majority of available computer architectures and operating systems. Many later
+			languages have borrowed directly or indirectly from C, including D, Go, Rust, Java, JavaScript,
+			Limbo, LPC, C#, Objective-C, Perl, PHP, Python, Verilog (hardware description language), and
+			Unix's C shell. These languages have drawn many of their control structures and other basic 
+			features from C.
+
+			OS: Cross-platform (multi-platform)
+
+
+		2. The Programming Language C++
+
+			C++ is a general purpose programming language that is free-form and compiled. It is regarded as 
+			an intermediate-level language, as it comprises both high-level and low-level language features.
+			It provides imperative, object-oriented and generic programming features.++ is one of the most 
+			popular programming languages and is implemented on a wide variety of hardware and operating system
+			platforms. As an efficient performance driven programming language it is used in systems software,
+			application software, device drivers, embedded software, high-performance server and client applications,
+			and entertainment software such as video games.C++ has influenced many other programming languages, 
+			for example, C#, Java, PHP, Perl and others.
+
+			OS: Cross-platform (multi-platform)
+
+
+		3. The Programming Language C#
+
+			C# is a multi-paradigm programming language encompassing strong typing, imperative, declarative, 
+			functional, procedural, generic, object-oriented (class-based), and component-oriented programming 
+			disciplines. It was developed by Microsoft within its .NET initiative and later approved as a standard 
+			by Ecma (ECMA-334) and ISO (ISO/IEC 23270:2006). C# is one of the programming languages designed for 
+			the Common Language Infrastructure (CLI). C# is built on the syntax and semantics of C++, allowing 
+			C programmers to take advantage of .NET and the common language runtime (CLR).
+			C# is intended to be a simple, modern, general-purpose, object-oriented programming language.
+
+			Platform: Common Language Infrastructure
+
+
+		4. The Programming Language Objective-C
+
+			Objective-C is a general-purpose, object-oriented programming language that adds Smalltalk-style messaging
+			to the C programming language. It is the main programming language used by Apple for the OS X and 
+			iOS operating systems and their respective APIs, Cocoa and Cocoa Touch.Generic Objective-C programs that 
+			do not use the Cocoa or Cocoa Touch libraries, or using parts that may be ported or reimplemented for other 
+			systems can also be compiled for any system supported by GCC or Clang.
+			C++ is currently nearly a superset of C, while Objective-C is a strict superset of C.
+
+			OS: Cross-platform (multi-platform)
+
+
+		5. The Programming Language Java
+
+			Java is a computer programming language that is concurrent, class-based, object-oriented, and specifically
+			designed to have as few implementation dependencies as possible. It is intended to let application 
+			developers "write once, run anywhere" (WORA), meaning that code that runs on one platform does not need 
+			to be recompiled to run on another. Java applications are typically compiled to bytecode (class file) that 
+			can run on any Java virtual machine (JVM) regardless of computer architecture. 
+
+			There were five primary goals in the creation of the Java language:
+
+			- It should be "simple, object-oriented and familiar"
+			- It should be "robust and secure"
+			- It should be "architecture-neutral and portable"
+			- It should execute with "high performance"
+			- It should be "interpreted, threaded, and dynamic"
+
+			OS: Cross-platform (multi-platform)
+
+
+		6. The Programming Language JavaScript (JS)
+
+			JavaScript (JS) is a dynamic computer programming language. It is most commonly used as part of web browsers,
+			whose implementations allow client-side scripts to interact with the user, control the browser, 
+			communicate asynchronously, and alter the document content that is displayed.It is also being used 
+			in server-side programming, game development and the creation of desktop and mobile applications.
+			JavaScript is a prototype-based scripting language with dynamic typing and has first-class functions. 
+			Its syntax was influenced by C. JavaScript copies many names and naming conventions from Java, 
+			but the two languages are otherwise unrelated and have very different semantics. It is a multi-paradigm 
+			language, supporting object-oriented, imperative, and functional programming styles.
+
+
+		7. The Programming Language PHP
+
+			PHP is a server-side scripting language designed for web development but also used as a general-purpose 
+			programming language. PHP is now installed on more than 244 million websites and 2.1 million web servers.
+			While PHP originally stood for Personal Home Page, it now stands for PHP: Hypertext Preprocessor, a 
+			recursive backronym.
+			PHP code is interpreted by a web server with a PHP processor module, which generates the resulting web page:
+			PHP commands can be embedded directly into an HTML source document rather than calling an external file 
+			to process data. It has also evolved to include a command-line interface capability and can be used in 
+			standalone graphical applications.
+			PHP is free software released under the PHP License. PHP can be deployed on most web servers and also as a 
+			standalone shell on almost every operating system and platform, free of charge.
+
+
+		8. The Programming Language Python
+
+			Python is a widely used general-purpose, high-level programming language. Its design philosophy emphasizes
+			code readability, and its syntax allows programmers to express concepts in fewer lines of code than would 
+			be possible in languages such as C. The language provides constructs intended to enable clear 
+			programs on both a small and large scale.Python supports multiple programming paradigms, including 
+			object-oriented, imperative and functional programming or procedural styles. It features a dynamic type 
+			system and automatic memory management and has a large and comprehensive standard library.
+			Like other dynamic languages, Python is often used as a scripting language, but is also used in a wide range
+			of non-scripting contexts. Using third-party tools, such as Py2exe, or Pyinstaller, Python code can be 
+			packaged into standalone executable programs. Python interpreters are available for many operating systems.
+
+			OS: Cross-platform (multi-platform)
+
+
+		9. The Programming Language Ruby
+
+			Ruby is a dynamic, reflective, object-oriented, general-purpose programming language. It was designed and 
+			developed in the mid-1990s by Yukihiro "Matz" Matsumoto in Japan.According to its authors, Ruby was influenced 
+			by Perl, Smalltalk, Eiffel, Ada, and Lisp.[9] It supports multiple programming paradigms, including functional, 
+			object-oriented, and imperative. It also has a dynamic type system and automatic memory management.
+
+			OS: Cross-platform (multi-platform)
+
+
+		10. The Programming Language Perl
+
+			Perl is a family of high-level, general-purpose, interpreted, dynamic programming languages. The languages 
+			in this family include Perl 5 and Perl 6.Though Perl is not officially an acronym, there are various backronyms 
+			in use, such as: Practical Extraction and Reporting Language.The Perl languages borrow features from other 
+			programming languages including C, shell scripting (sh), AWK, and sed.
+			Perl 5 is used for graphics programming, system administration, network programming, finance, bioinformatics,
+			and other applications. It is nicknamed "the Swiss Army chainsaw of scripting languages" because of its flexibility
+			and power, and possibly also because of its "ugliness".
+
+			OS: Cross-platform (multi-platform)
+
